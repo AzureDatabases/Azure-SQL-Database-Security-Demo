@@ -2,8 +2,9 @@
 
 ## Overview
 Security is a top concern for managing databases, and it has always been a priority for Azure SQL Database. Your databases can be tightly secured to help satisfy most regulatory or security requirements. 
+Azure SQL Database uses a defense-in-depth approach with many layers of protection for your data, while giving the additional benefits of cloud-based computing such as scalability, availability, and cost efficiency. For more information reference: [Azure SQL Database Security Overview](https://docs.microsoft.com/en-us/azure/sql-database/sql-database-security-overview)
 
-In this demo, We'll walkthrough some of the Security features of Azure SQL Databases. 
+In this demo, We'll walkthrough some of the Security capabilities of Azure SQL Databases. 
  
 ## Exercise 1: Getting Started
 
